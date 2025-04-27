@@ -20,3 +20,4 @@ print (combination)
 #shuffle password
 password = "".join(random.sample(combination,len(combination)))
 print (password)
+print("test")
